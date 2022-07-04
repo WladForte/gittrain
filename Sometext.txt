@@ -1,1 +1,2 @@
 Look! There is a text here!
+This line is a feature
