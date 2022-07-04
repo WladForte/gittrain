@@ -1,0 +1,24 @@
+[33mcommit 3e3a5d631747aa064f3cc505bd99741c4eb66f9c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Wladislaw Konetski <vlkonetsky18@gmail.com>
+Date:   Mon Jul 4 20:43:13 2022 +0200
+
+    added another file
+
+A	another.txt
+
+[33mcommit 5d82eae32123445c079475d07e5c7502fc42c417[m
+Author: Wladislaw Konetski <vlkonetsky18@gmail.com>
+Date:   Mon Jul 4 20:39:37 2022 +0200
+
+    Created a text file with some content
+
+A	Sometext.txt
+
+[33mcommit b00616bc0d21f96020f34864ff39ebb94c97e364[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wladislaw <vlkonetsky18@gmail.com>
+Date:   Mon Jul 4 18:09:08 2022 +0200
+
+    Initial commit
+
+A	.gitignore
+A	README.md
